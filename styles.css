@@ -1,0 +1,74 @@
+body {
+  background-color: lightgray;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.Logo {
+  background-color: grey;
+  padding: 10px 20px;
+  margin: 10px 0;
+}
+
+.Logo span {
+  background-color: grey;
+  float: right;
+  margin-right: 100px;
+}
+
+header {
+  background-color: grey;
+  padding: 60px 20px;
+  margin: 10px 0px;
+  text-align: center;
+}
+
+.Text {
+  background-color: grey;
+  padding: 40px 20px;
+  margin: 10px 0px;
+  text-align: center;
+}
+
+.Boxes {
+  background-color: lightgray;
+  margin: 25px 0px;
+  min-height: 200px;
+  display: flex;
+  flex-wrap: nowrap;
+  justify-content: space-between;
+}
+
+.Box1 {
+  background-color: grey;
+  min-height: 200px;
+  padding: 20px;
+  width: 25%;
+  text-align: center;
+  line-height: 200px;
+}
+
+.Box2 {
+  background-color: grey;
+  min-height: 200px;
+  padding: 20px;
+  width: 25%;
+  margin: 0 5%;
+  text-align: center;
+  line-height: 200px;
+}
+
+.Box3 {
+  background-color: grey;
+  min-height: 200px;
+  padding: 20px;
+  width: 25%;
+  text-align: center;
+  line-height: 200px;
+}
+
+footer {
+  background-color: grey;
+  padding: 10px 20px;
+  margin: 10px 0px;
+  text-align: center;
+}
